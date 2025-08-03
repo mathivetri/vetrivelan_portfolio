@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/vetrivelan_portfolio/static/css/main.0e29fbde.css",
+    "main.js": "/vetrivelan_portfolio/static/js/main.73dd4700.js",
+    "index.html": "/vetrivelan_portfolio/index.html",
+    "main.0e29fbde.css.map": "/vetrivelan_portfolio/static/css/main.0e29fbde.css.map",
+    "main.73dd4700.js.map": "/vetrivelan_portfolio/static/js/main.73dd4700.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0e29fbde.css",
+    "static/js/main.73dd4700.js"
+  ]
+}
